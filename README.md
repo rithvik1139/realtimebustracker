@@ -7,7 +7,9 @@ Description:
 
 How to Run: 
 
-    - select and visit https://github.com/rithvik1139/realtimebustracker/index.html
+    - select https://github.com/rithvik1139/realtimebustracker
+    - copy git repository
+    - open index.html file in web browser
 
 Future Improvements: 
 
